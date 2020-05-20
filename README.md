@@ -11,3 +11,5 @@ Becomes:
 Your timezone is detected using your system timezone, and the timezone abbreviation is set in the extension options.
 
 Permissions are set for 7cav.us only, so it won't sit there scanning every webpage you visit.
+
+[Privacy Policy](https://github.com/RaynorD/CavZuluConverter-Edge/wiki/Privacy-Policy)
